@@ -162,8 +162,7 @@ More Attention ← Better Yields ← AI Optimizes LP Positions
 | **Multicall3**              | [`0x709Bf66Fb11942dA03a1F7bf59bFA99293F68db9`](https://insectarium.blockscout.memecore.com/address/0x709Bf66Fb11942dA03a1F7bf59bFA99293F68db9) |
 | **Wrapped Native (WM)**     | [`0x653e645e3d81a72e71328Bc01A04002945E3ef7A`](https://insectarium.blockscout.memecore.com/address/0x653e645e3d81a72e71328Bc01A04002945E3ef7A) |
 
-> 📍 RPC URL: `https://rpc.insectarium.memecore.net`  
-> 🔍 Explorer: `https://explorer.insectarium.memecore.net`
+> 🔍 Explorer: `https://insectarium.blockscout.memecore.com`
 
 ---
 
