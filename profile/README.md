@@ -128,11 +128,11 @@ More Attention ← Better Yields ← AI Optimizes LP Positions
 | ------------------- | ------------------------- | ----------------------------------------------- |
 | **Smart Contracts** | Solidity + Foundry        | Liquidity Book AMM, ViralScoreReporter          |
 | **Indexer**         | Envio                     | Real-time on-chain event indexing               |
-| **Backend**         | Bun + Hono + PostgreSQL   | Viral score calculation, signing, Merkle proofs |
+| **Backend**         | Bun + Hono + PostgreSQL   | Viral score calculation, signing rank           |
 | **AI**              | Claude API (Anthropic)    | DLMM strategy generation                        |
-| **Frontend**        | React + TypeScript + Vite | CEX-style trading UI                            |
+| **Frontend**        | React + TypeScript + Vite | MET-style trading UI                            |
 | **Styling**         | Tailwind CSS              | Responsive, modern design                       |
-| **Blockchain**      | Memecore Testnet (43522)  | EVM-compatible L2                               |
+| **Blockchain**      | Memecore Testnet (43522)  | EVM-compatible                                  |
 
 ---
 
