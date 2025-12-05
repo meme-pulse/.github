@@ -153,14 +153,14 @@ More Attention ← Better Yields ← AI Optimizes LP Positions
 
 | Contract                    | Address                                                                                                                                      |
 | --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| **LBFactory**               | [`0x1B279B36995A5AfBB75d82187F0025Ffef4572ED`](https://explorer.insectarium.memecore.net/address/0x1B279B36995A5AfBB75d82187F0025Ffef4572ED) |
-| **LBRouter**                | [`0x467777Edb64b83E3b883EB7Ec8A2B291888eD67b`](https://explorer.insectarium.memecore.net/address/0x467777Edb64b83E3b883EB7Ec8A2B291888eD67b) |
-| **LBQuoter**                | [`0x070C29CdF290c3681A25e3258cC1cdAa0a97300B`](https://explorer.insectarium.memecore.net/address/0x070C29CdF290c3681A25e3258cC1cdAa0a97300B) |
-| **LBPair (Implementation)** | [`0xFaBb4c3EFb914fEbae14060216273064789627a8`](https://explorer.insectarium.memecore.net/address/0xFaBb4c3EFb914fEbae14060216273064789627a8) |
-| **ViralScoreReporter**      | [`0x639323a363Da20E755c3D38C14d59FbCC67446bC`](https://explorer.insectarium.memecore.net/address/0x639323a363Da20E755c3D38C14d59FbCC67446bC) |
-| **LiquidityHelper**         | [`0xB4c4C4B4833E74FC60D74482Ec729C60C1E65Dc6`](https://explorer.insectarium.memecore.net/address/0xB4c4C4B4833E74FC60D74482Ec729C60C1E65Dc6) |
-| **Multicall3**              | [`0x709Bf66Fb11942dA03a1F7bf59bFA99293F68db9`](https://explorer.insectarium.memecore.net/address/0x709Bf66Fb11942dA03a1F7bf59bFA99293F68db9) |
-| **Wrapped Native (WM)**     | [`0x653e645e3d81a72e71328Bc01A04002945E3ef7A`](https://explorer.insectarium.memecore.net/address/0x653e645e3d81a72e71328Bc01A04002945E3ef7A) |
+| **LBFactory**               | [`0x1B279B36995A5AfBB75d82187F0025Ffef4572ED`](https://insectarium.blockscout.memecore.net/address/0x1B279B36995A5AfBB75d82187F0025Ffef4572ED) |
+| **LBRouter**                | [`0x467777Edb64b83E3b883EB7Ec8A2B291888eD67b`](https://insectarium.blockscout.memecore.net/address/0x467777Edb64b83E3b883EB7Ec8A2B291888eD67b) |
+| **LBQuoter**                | [`0x070C29CdF290c3681A25e3258cC1cdAa0a97300B`](https://insectarium.blockscout.memecore.net/address/0x070C29CdF290c3681A25e3258cC1cdAa0a97300B) |
+| **LBPair (Implementation)** | [`0xFaBb4c3EFb914fEbae14060216273064789627a8`](https://insectarium.blockscout.memecore.net/address/0xFaBb4c3EFb914fEbae14060216273064789627a8) |
+| **ViralScoreReporter**      | [`0x639323a363Da20E755c3D38C14d59FbCC67446bC`](https://insectarium.blockscout.memecore.net/address/0x639323a363Da20E755c3D38C14d59FbCC67446bC) |
+| **LiquidityHelper**         | [`0xB4c4C4B4833E74FC60D74482Ec729C60C1E65Dc6`](https://insectarium.blockscout.memecore.net/address/0xB4c4C4B4833E74FC60D74482Ec729C60C1E65Dc6) |
+| **Multicall3**              | [`0x709Bf66Fb11942dA03a1F7bf59bFA99293F68db9`](https://insectarium.blockscout.memecore.net/address/0x709Bf66Fb11942dA03a1F7bf59bFA99293F68db9) |
+| **Wrapped Native (WM)**     | [`0x653e645e3d81a72e71328Bc01A04002945E3ef7A`](https://insectarium.blockscout.memecore.net/address/0x653e645e3d81a72e71328Bc01A04002945E3ef7A) |
 
 > 📍 RPC URL: `https://rpc.insectarium.memecore.net`  
 > 🔍 Explorer: `https://explorer.insectarium.memecore.net`
