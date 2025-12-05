@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/52706443/522454315-75b59f8e-743f-41ee-9a8b-8ff46cffa954.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQ4NTQ3ODcsIm5iZiI6MTc2NDg1NDQ4NywicGF0aCI6Ii81MjcwNjQ0My81MjI0NTQzMTUtNzViNTlmOGUtNzQzZi00MWVlLTlhOGItOGZmNDZjZmZhOTU0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjA0VDEzMjEyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI5M2M3NDc0ZjQ2NjliYzU3ZTcxZGY0ZmVhZTgyZGNjMjE5YzhjZTM2Nzk3MmY3MDUwYWY4NmQ0OWViZWZmYTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.fgV2D1BAxZ_jYUmAAVGpgExkjRGoxHurtdIVQd0sQzk" alt="Meme Pulse Logo" width="120" />
+  <img src="https://raw.githubusercontent.com/meme-pulse/.github/refs/heads/main/meme-pulse.png" alt="Meme Pulse Logo" width="120" />
 </p>
 
 <h1 align="center">Meme Pulse</h1>
