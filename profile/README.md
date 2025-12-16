@@ -4,6 +4,16 @@
 
 <h1 align="center">Meme Pulse</h1>
 
+
+<p align="center">
+  <a href="https://github.com/meme-pulse">
+    <img src="https://img.shields.io/badge/🏆_Grand_Prize-Memekathon_Seoul_2025-FFD700?style=for-the-badge&logo=trophy&logoColor=black" alt="Grand Prize Winner" />
+  </a>
+</p>
+<h3 align="center">
+  👑 Overall 1st Place Winner (Grand Prize) 👑
+</h3>
+
 <p align="center">
   <strong>Social Virality Rewards + AI-Powered Liquidity</strong>
 </p>
